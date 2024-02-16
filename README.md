@@ -22,6 +22,7 @@
 [![Replicate](https://replicate.com/zsxkib/yolo-world/badge)](https://replicate.com/zsxkib/yolo-world)
 [![hfpaper](https://img.shields.io/badge/🤗HugginngFace-Paper-yellow)](https://huggingface.co/papers/2401.17270)
 [![license](https://img.shields.io/badge/License-GPLv3.0-blue)](LICENSE)
+[![deploy](https://media.roboflow.com/deploy.svg)](https://github.com/inference/inference)
 
 </div>
 </div>
